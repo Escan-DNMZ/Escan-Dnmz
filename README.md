@@ -1,4 +1,4 @@
-## <div align="center">I'm Escan, a Mobile Application Developer 👨‍💻 developing since 2022 🚀</div>  
+## <div align="center">I'm Escan, a Mobile Application Developer 👨‍💻</div>  
   
 
 <br/>  
