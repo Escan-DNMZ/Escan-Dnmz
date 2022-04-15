@@ -67,15 +67,7 @@
 
 
 ## Github Stats  
-
-<a href="https://github.com/Escan-DNMZ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Escan-DNMZ&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Escan-DNMZ/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Escan-DNMZ&repo=convoychat" />
-</a>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
