@@ -67,7 +67,12 @@
 
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escan-DNMZ&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escan-DNMZ&hide=javascript,html,css,php)](https://github.com/Escan-DNMZ/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escan-DNMZ&show_icons=true&theme=default)
+
+
+
+
 
 <br/>  
 
