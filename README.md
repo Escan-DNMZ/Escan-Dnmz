@@ -67,7 +67,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Escan-DNMZ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Escan-DNMZ&theme=tokyonight&show_icon=true" width="450" height="180" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4f2c2b8bef0965f3b95f36ca97e400d43348362ca7d8c8a46b4df5a4c99bf47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61746963696164656d266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escan-DNMZ&layout=compact&theme=tokyonight" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escan-DNMZ&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
+</p> 
 
 <br/>  
 
