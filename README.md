@@ -2,8 +2,27 @@
   
 
 <br/>  
+Mobil Application Development:
+Kotlin
 
+Web Development:
+Asp Net Core Mvc
+Asp Net Mvc
+C#
+Html
+Css
+Javascript(Beginner)
 
+Game Development:
+Unreal Engine 5
+C++
+
+Database:
+MsSql
+MySql
+Sql Lite
+
+<br/>  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
